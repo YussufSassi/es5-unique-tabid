@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haricane8133/unique-tabid.git"
+    "url": "git+https://github.com/YussufSassi/es5-unique-tabid.git"
   },
   "keywords": [
     "TabId"
@@ -20,9 +20,9 @@
   "author": "haricane8133",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/haricane8133/unique-tabid/issues"
+    "url": "https://github.com/YussufSassi/es5-unique-tabid/issues"
   },
-  "homepage": "https://github.com/haricane8133/unique-tabid#readme",
+  "homepage": "https://github.com/YussufSassi/es5-unique-tabid#readme",
   "devDependencies": {
     "typescript": "^4.8.4"
   }
